@@ -27,6 +27,7 @@ body {
   position: absolute;
   width: 600px;
   left: calc(50% - 300px);
+  margin-top: 18em;
 }
 
 .canvas {
